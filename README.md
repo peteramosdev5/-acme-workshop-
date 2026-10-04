@@ -9,7 +9,7 @@ A Simple responsive shop landing page built with HTML and CSS
 -shop.html - main shop page
 -shop.css - styling
 
-## Lve Demo
+## Live Demo
 Coming Soon
 
 ## Author
